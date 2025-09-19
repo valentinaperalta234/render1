@@ -18,6 +18,8 @@
   "homepage": "https://github.com/valentinaperalta234/render1#readme",
   "description": "",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2"
   }
 }
